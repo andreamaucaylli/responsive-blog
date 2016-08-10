@@ -1,0 +1,65 @@
+*{
+	color: white;
+	font-family: 'Open Sans';
+	margin: 0px auto;
+	padding: 0px,
+}
+
+body{
+	text-align: center;
+}
+
+header, footer{
+	background-color: #1C1821;
+}
+
+header{
+	padding: 40px;
+}
+
+footer{
+	padding: 20px;
+}
+
+section{
+	background-color: #2D2735;
+}
+
+a{
+	text-decoration: none;
+}
+
+h1,h4{
+	color: #DEA761;
+	font-family: 'Courgette';
+}
+
+section img{
+	width: 100%;
+}
+
+.logo{
+	width: 70%;
+}
+
+.spring{
+	background-image: url(../image/header-image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.flowers{
+	margin: 10px;
+}
+
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
